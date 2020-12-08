@@ -1,1 +1,0 @@
-console.log('Inside the ts file');
